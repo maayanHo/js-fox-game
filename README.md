@@ -1,7 +1,7 @@
 # js-fox-game
-javascript fox game
+JavaScript fox game
 
-# to run the game:
+## Installation
 ```bash
 npm i
 npm run dev
